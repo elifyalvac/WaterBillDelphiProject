@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.767,=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\fatura_kayit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\fatura_bilgi.dfm=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\fatura_bilgi.pas=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\fatura_odeme.dfm=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\su_fatura_takip.dproj=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\fatura_kayit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\fatura_odeme.pas=C:\Users\elify\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
